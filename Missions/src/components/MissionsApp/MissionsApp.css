@@ -1,0 +1,10 @@
+.MissionsApp{
+    display: flex;
+    flex-direction: column;
+}
+
+.MissionsApp h1{
+    color: rgb(9, 173, 9);
+    display: flex;
+    font-size: large;
+}

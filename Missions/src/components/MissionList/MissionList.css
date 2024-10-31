@@ -1,0 +1,11 @@
+
+.MissionList{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    color: aliceblue;
+}
+
+.MissionList h2{
+    color: rgb(226, 43, 43);
+}

@@ -1,0 +1,22 @@
+.OneMission{
+    display: flex;
+    background-color: rgb(145, 32, 32);
+    width: 750px;
+    height: auto;
+    box-sizing: border-box;
+    padding: 10px;
+    text-align: start;
+}
+
+.buttons{
+    background-color: rgb(145, 32, 32);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.missionDetails{
+    background-color: rgb(145, 32, 32);
+    display: flex;
+    flex-direction: column;
+}
